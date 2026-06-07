@@ -9,6 +9,7 @@
 #include "encoder.dtsi"
 #include "underglow.dtsi"
 #include "indicate_led.dtsi"
+#include <input/processors.dtsi>
 / {
 	chosen {  
         zmk,kscan = &kscan0;
